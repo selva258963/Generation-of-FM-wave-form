@@ -1,0 +1,15 @@
+Aim
+To generate the Frequency modulated wave for given specification
+Tools Requied
+Python or MATLAB
+Procedure
+1.Initialize the Amplitude and Frequency of carrier wave
+2.Initialize the Amplitude and Frerquency of Message signal
+3.Define Frequency deviation delta
+4.Define FM equation
+5.Plot the signal
+Code
+Output Wave from
+Result
+
+
